@@ -9,9 +9,12 @@
 
 * [ar](https://linux.die.net/man/1/ar)
 
+* make
+
 ## COMPILE LIBFT
 
 * Use make to generate `libft.a`.
+
 
 Makefile has 3 rules:
 
