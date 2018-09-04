@@ -1,6 +1,6 @@
 # LIBFT
 
-## ABOUT LIBFT
+## About libft
 * Libft is a static library.
 
 ## What you need to make libft
@@ -11,7 +11,7 @@
 
 * make
 
-## COMPILE LIBFT
+## Compile libft
 
 * Use make to generate `libft.a`.
 
