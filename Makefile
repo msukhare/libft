@@ -6,7 +6,7 @@
 #    By: msukhare <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/11/12 11:45:06 by msukhare          #+#    #+#              #
-#    Updated: 2017/11/13 10:13:44 by msukhare         ###   ########.fr        #
+#    Updated: 2018/09/04 10:41:07 by msukhare         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -153,4 +153,4 @@ clean:
 fclean: clean
 	/bin/rm -f $(NAME)
 
-re: fclean all
+re: clean fclean all
