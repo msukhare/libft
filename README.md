@@ -3,6 +3,8 @@
 ## About libft
 * Libft is a static library.
 
+* Libft is a minimal reimplementation of the LibC
+
 ## What you need to make libft
 
 * gcc or clang
