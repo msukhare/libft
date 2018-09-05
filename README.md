@@ -15,7 +15,7 @@
 
 ## Compile libft
 
-* Use make to generate `libft.a`.
+* Use `make` to generate `libft.a`.
 
 
 Makefile has 3 rules:
