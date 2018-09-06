@@ -13,6 +13,8 @@
 
 * make
 
+* [Clibrary](https://en.wikipedia.org/wiki/C_standard_library)
+
 ## Compile libft
 
 * Use `make` to generate `libft.a`.
