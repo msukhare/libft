@@ -20,7 +20,7 @@
 * Use `make` to generate `libft.a`.
 
 
-Makefile has 3 rules:
+## Makefile has 3 rules:
 
   * `all`: create libft.a
   
